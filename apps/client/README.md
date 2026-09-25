@@ -1,1 +1,1 @@
-# Wager (client)
+# wager (client)

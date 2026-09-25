@@ -1,1 +1,1 @@
-# Wager (service)
+# wager (service)
